@@ -1,0 +1,25 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "A sample project to test travis continuous integration on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulsluz/travis-ci-test.git"
+  },
+  "keywords": [
+    "travis-ci",
+    "github",
+    "continuous",
+    "integration"
+  ],
+  "author": "Saul Luz <saulsluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saulsluz/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/saulsluz/travis-ci-test#readme"
+}
